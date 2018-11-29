@@ -4,4 +4,6 @@
 
 hi A
 
+new text
+
 \end{document}
