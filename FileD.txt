@@ -2,8 +2,6 @@
 
 \begin{document}
 
-hi A
-
-new text
+this is FileD.txt
 
 \end{document}
